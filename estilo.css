@@ -7,6 +7,7 @@ div{
     border: black 1px solid;
     padding: 10px 30px;
     margin: 10px;
+    width: 50%;
 }
 table{
     margin-left: auto;
@@ -38,4 +39,25 @@ div.Febrero table {
     border-collapse: collapse;
     border: none;
     padding-right: 5px;
+    text-align: right;
+}
+div.Febrero caption {
+    font-weight: bold;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.Febrero td {
+    width: 1.5em;
+    font-size: 150%;
+    border-top: none;
+    border-bottom: none;
+    padding-right: 5px;
+}
+div.Febrero th {
+    padding-right: 5px;
+    border-bottom: none;
+    border-top: none;
+}
+div.Marzo table {
+    
 }
