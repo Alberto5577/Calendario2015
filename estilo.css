@@ -34,3 +34,8 @@ div.Enero th {
     border-right: none;
     border-top: none;
 }
+div.Febrero table {
+    border-collapse: collapse;
+    border: none;
+    padding-right: 5px;
+}
