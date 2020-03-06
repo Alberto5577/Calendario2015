@@ -59,5 +59,25 @@ div.Febrero th {
     border-top: none;
 }
 div.Marzo table {
-    
+    border: black 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+div.Marzo caption {
+    font-variant: small-caps;
+    text-align: left;
+    letter-spacing: 10px;
+    margin-bottom: 5px;
+}
+div.Marzo td {
+    width: 4em;
+    height: 4em;
+    padding-left: 5px;
+    font-size: 70%;
+    vertical-align: top;
+    text-align: left;
+}
+div.Marzo th {
+    text-align: center;
+
 }
